@@ -20,4 +20,4 @@
 - Led a data governance project in Microsoft Purview 
 
 ## 🔗 Let's Connect  
-- [LinkedIn](www.linkedin.com/in/marcel-khaddaj-6464a079) 
+- [LinkedIn](www.linkedin.com/in/marcel-khaddaj-6464a079)
